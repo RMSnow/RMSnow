@@ -21,6 +21,6 @@ Before CUHK-Shenzhen, I received my master's degree (2019-2022) at the Institute
 
 ### 🔗 Homepages
 
-- Personal Website: https://www.zhangxueyao.com/
-- Google Scholar: https://scholar.google.com/schhp?hl=en
+- [Personal Website](https://www.zhangxueyao.com/)
+- [Google Scholar](https://scholar.google.com/citations?user=lf1udBcAAAAJ&hl=en)
 - WeChat Channels: *RMSnow*
