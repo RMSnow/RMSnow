@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Xueyao Zhang (张雪遥). I'm a second-year Ph.D. student at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by Professor [Zhizheng Wu](http://www.drwuz.com/). My research interest is to **study *Music* from the perspective of *Artificial Intelligence***. In particular, my ongoing works focus on Singing Voice Conversion (SVC). To know more about SVC, you can read [this tutorial](https://www.zhangxueyao.com/data/SVC/tutorial.html) and [my latest work](https://www.zhangxueyao.com/data/MultipleContentsSVC/index.html). Recently, I'm participating in and leading the development of the prototype of the open-source *[Amphion](https://github.com/open-mmlab/Amphion)* toolkit.
+My name is Xueyao Zhang (张雪遥). I'm a third-year Ph.D. student at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by Professor [Zhizheng Wu](http://www.drwuz.com/). I'm participating in and leading the development of *[Amphion](https://github.com/open-mmlab/Amphion)*, which is an open-source toolkit for Audio, Music, and Speech Generation. Before CUHK-Shenzhen, I received my master's degree (2019-2022) at the Institute of Computing Technology Chinese Academy of Sciences (ICT, CAS), working on computational social science, especially on **Fake News Detection** and **Fact Checking**.
 
-Before CUHK-Shenzhen, I received my master's degree (2019-2022) at the Institute of Computing Technology Chinese Academy of Sciences (ICT, CAS), working on computational social science, especially on **Fake News Detection** and **Fact Checking**.
+My research interests include:
+              <ul>
+                <li>Applications: <b>Speech Generation</b>, <b>AI Music & AI for Music</b>, <b>AI for Social Good</b>
+                </li>
+                <li>Technologies: <b>Generative Model</b>, <b>Representation Learning</b></li>
+              </ul>
 
 ### 🔗 Homepages
 
 - [Personal Website](https://www.zhangxueyao.com/)
 - [Google Scholar](https://scholar.google.com/citations?user=lf1udBcAAAAJ&hl=en)
-- WeChat Channels: *RMSnow*
+- 微信公众号：*雪山飞遥*
+- 微信视频号：*RMSnow*
